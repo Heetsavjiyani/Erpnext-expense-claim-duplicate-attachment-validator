@@ -19,9 +19,6 @@ This project prevents duplicate image/file uploads in ERPNext Expense Claims by 
 - Python (Server Script)
 - JavaScript (Client Script)
 
-## Screenshots
-(Add your screenshots here)
-
 ## Installation
 1. Create the Client Script in ERPNext.
 2. Create the Server Script in ERPNext.
